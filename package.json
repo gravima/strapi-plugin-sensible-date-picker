@@ -1,0 +1,47 @@
+{
+  "name": "sensible-date-picker",
+  "version": "0.0.0",
+  "description": "This is the description of the plugin.",
+  "strapi": {
+    "name": "sensible-date-picker",
+    "description": "Description of Sensible Date Picker plugin",
+    "kind": "plugin",
+    "displayName": "Sensible Date Picker"
+  },
+  "dependencies": {
+    "@strapi/design-system": "^1.8.2",
+    "@strapi/helper-plugin": "^4.6.0",
+    "@strapi/icons": "^1.6.3",
+    "prop-types": "^15.7.2",
+    "react-date-picker": "^10.5.0",
+    "react-datepicker": "^4.16.0",
+    "react-datetime-picker": "^5.5.1",
+    "react-intl": "^6.4.4",
+    "react-time-picker": "^6.5.0"
+  },
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^5.3.4",
+    "styled-components": "^5.3.6"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0",
+    "react-router-dom": "^5.3.4",
+    "styled-components": "^5.3.6"
+  },
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "maintainers": [
+    {
+      "name": "A Strapi developer"
+    }
+  ],
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
