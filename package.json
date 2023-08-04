@@ -2,6 +2,10 @@
   "name": "sensible-date-picker",
   "version": "0.0.0",
   "description": "This is the description of the plugin.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gravima/strapi-plugin-sensible-date-picker"
+  },
   "strapi": {
     "name": "sensible-date-picker",
     "description": "Description of Sensible Date Picker plugin",
